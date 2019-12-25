@@ -1,0 +1,6 @@
+S:\Xp_Essentials_2019\Xp_Essentials_2019_SolidPrinciples\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+S:\Xp_Essentials_2019\Xp_Essentials_2019_SolidPrinciples\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+S:\Xp_Essentials_2019\Xp_Essentials_2019_SolidPrinciples\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+S:\Xp_Essentials_2019\Xp_Essentials_2019_SolidPrinciples\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csprojResolveAssemblyReference.cache
+S:\Xp_Essentials_2019\Xp_Essentials_2019_SolidPrinciples\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+S:\Xp_Essentials_2019\Xp_Essentials_2019_SolidPrinciples\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
