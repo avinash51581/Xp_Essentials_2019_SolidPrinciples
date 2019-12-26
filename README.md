@@ -1,4 +1,4 @@
-# SolidPrinciple
+# SolidPrinciples
 
 SOLID folder contains implementation with and without applying solid principle.
 1.Single Responsibility Principle Folder :- contains two sub folders Without SRP and With SRP (for showcasing implementation with and without applying solid principle.)
