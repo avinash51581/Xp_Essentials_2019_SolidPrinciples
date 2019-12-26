@@ -43,7 +43,14 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SOLID\Single Responsibility Principle\With SRP\Employee.cs" />
+    <Compile Include="SOLID\Open Close Principle\With OCP\EmployeeOCP.cs" />
+    <Compile Include="SOLID\Open Close Principle\With OCP\GifImageGeneration.cs" />
+    <Compile Include="SOLID\Open Close Principle\With OCP\IImageGeneration.cs" />
+    <Compile Include="SOLID\Open Close Principle\With OCP\JpegImageGeneration.cs" />
+    <Compile Include="SOLID\Open Close Principle\With OCP\PngImageGeneration.cs" />
+    <Compile Include="SOLID\Open Close Principle\Without OCP\Employee.cs" />
+    <Compile Include="SOLID\Open Close Principle\Without OCP\ImageGeneration.cs" />
+    <Compile Include="SOLID\Single Responsibility Principle\With SRP\EmployeeSRP.cs" />
     <Compile Include="SOLID\Single Responsibility Principle\With SRP\ImageGeneration.cs" />
     <Compile Include="SOLID\Single Responsibility Principle\Without SRP\Employee.cs" />
   </ItemGroup>
