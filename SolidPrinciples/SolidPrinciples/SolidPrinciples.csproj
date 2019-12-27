@@ -43,6 +43,22 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SOLID\Dependency Inversion Principle\With DIP\Email.cs" />
+    <Compile Include="SOLID\Dependency Inversion Principle\With DIP\IMessenger.cs" />
+    <Compile Include="SOLID\Dependency Inversion Principle\With DIP\Notify.cs" />
+    <Compile Include="SOLID\Dependency Inversion Principle\With DIP\SMS.cs" />
+    <Compile Include="SOLID\Dependency Inversion Principle\Without DIP\Email.cs" />
+    <Compile Include="SOLID\Interface Segregation Principle\With ISP\Employee.cs" />
+    <Compile Include="SOLID\Interface Segregation Principle\With ISP\IEmployee.cs" />
+    <Compile Include="SOLID\Interface Segregation Principle\With ISP\IImageGeneration.cs" />
+    <Compile Include="SOLID\Interface Segregation Principle\With ISP\ImageGeneration.cs" />
+    <Compile Include="SOLID\Interface Segregation Principle\Without ISP\Employee.cs" />
+    <Compile Include="SOLID\Interface Segregation Principle\Without ISP\IEmployee.cs" />
+    <Compile Include="SOLID\Liskov Substitution Principle\With LSP\Area.cs" />
+    <Compile Include="SOLID\Liskov Substitution Principle\With LSP\Rectangle.cs" />
+    <Compile Include="SOLID\Liskov Substitution Principle\With LSP\Square.cs" />
+    <Compile Include="SOLID\Liskov Substitution Principle\Without LSP\CalculateArea.cs" />
+    <Compile Include="SOLID\Liskov Substitution Principle\Without LSP\Rectangle.cs" />
     <Compile Include="SOLID\Open Close Principle\With OCP\EmployeeOCP.cs" />
     <Compile Include="SOLID\Open Close Principle\With OCP\GifImageGeneration.cs" />
     <Compile Include="SOLID\Open Close Principle\With OCP\IImageGeneration.cs" />
